@@ -1,11 +1,11 @@
 body { 
   margin: 0 auto;
   max-width: 50em;
-  font-family: "Broadway", "Arial", sans-serif;
+  font-family: "Broadway", "Ravie", sans-serif;
   line-height: 1.5;
   padding: 4em 1em;
   color: #555;
-  background-color: #00ffd7;
+  background-color: #000000;
 }
 
 h2 {
@@ -14,5 +14,5 @@ h2 {
 }
 
 h1, h2, strong {
-  color: #333;
+  color: #FFFF33;
 }
